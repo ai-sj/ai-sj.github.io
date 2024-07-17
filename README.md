@@ -1,1 +1,1 @@
-# sj-y-ai.github.io
+# sj-ai.github.io
